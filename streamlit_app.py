@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Define the Excel file path
-EXCEL_FILE = '/Painter Review v2.xlsx'
+EXCEL_FILE = 'Painter Review v2.xlsx'
 
 def load_data():
     """Loads the Excel file into a DataFrame."""
